@@ -104,10 +104,10 @@ $headers[] = "Connection: close";
 $exec = request($url, $data, $headers);
 if(strpos($exec, '"data":"Success"') !== false)
 {
-	echo "Success Tembak!\n";
+	echo "PalakBapakKau!\n";
 }
 else
 {
-	echo "Failed Tembak!";
+	echo "BeliMakanyaKontol!";
 }
 }
