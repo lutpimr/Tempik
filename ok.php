@@ -74,7 +74,7 @@ $headers[] = "Accept-Language: en-US,en;q=0.5";
 $headers[] = "Accept-Encoding: gzip, deflate";
 $headers[] = "Authorization: Bearer $bearer";
 $headers[] = "Content-Type: application/json";
-$headers[] = "Content-Length: 2";
+$headers[] = "Content-Length: 30";
 $headers[] = "Origin: http://bonstri.tri.co.id";
 $headers[] = "Connection: close";
 $headers[] = "Referer: http://bonstri.tri.co.id/voucherku";
